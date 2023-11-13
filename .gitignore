@@ -1,0 +1,8 @@
+# Bun
+bun.lockb
+
+# Node
+node_modules
+
+# dist
+dist
